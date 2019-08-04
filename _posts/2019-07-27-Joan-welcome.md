@@ -3,7 +3,7 @@ layout: post
 title: We Ride For The Weird West!
 subtitle: by Marshall Joan
 image: /img/weirdwest_skelly.png
-comments:true
+comments: true
 ---
 Howdy Pardners! And welcome to the Six-Gun Sorcery Podcast. Hitch 'em up, Saddle ’em up, and ride the trails with Marshall Mike and Marshall Joan as they regale the tales of the weird west stories, TV shows, movies, and games.
 
